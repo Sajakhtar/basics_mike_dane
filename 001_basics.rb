@@ -114,17 +114,3 @@ puts num.floor()
 # Math class
 puts Math.sqrt(36)
 puts Math.log(1)
-
-
-
-# USER INPUT IN TERMINAL
-
-# running  file in terminal: > my_file.rb
-
-puts "Enter Your Name:"
-name = gets
-puts "Hi #{name}, nice to meet you"
-
-puts "Enter Your Name:"
-name2 = gets.chomp() # remove new line character
-puts "Hi #{name}, nice to meet you"
