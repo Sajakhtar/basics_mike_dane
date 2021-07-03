@@ -33,7 +33,7 @@ puts "#{full_name} is #{age} years old"
 # DATA TYPES
 
 my_name = 'jon' # String
-my_age = 75 # Iinteger
+my_age = 75 # Integer
 my_balance = -17.55  # Float
 my_bool = true # TrueClass
 my_nil_var = nil # NilClass
@@ -94,7 +94,7 @@ puts 5 + 9
 puts 5 - 9
 puts 5 * 9
 puts 5 / 9 # 0 since it's Integer
-puts 5.0 / 9.0
+puts 5.0 / 9.0 # Float
 puts 2**3
 puts 10 % 3 # modulus
 
